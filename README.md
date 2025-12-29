@@ -58,7 +58,7 @@ ML-Algorithms/
 
 
 ---
-```md
+```
 
 ## 🔬 Methodology
 Each algorithm follows a consistent ML workflow:

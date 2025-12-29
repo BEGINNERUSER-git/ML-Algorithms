@@ -37,9 +37,9 @@ The goal is to develop a strong understanding of model internals, optimization t
 ```text
 ML-Algorithms/
 │
-├── regression/
-│   ├── linear_regression_from_scratch.py
-│   └── linear_regression_sklearn.py
+├── Linear-Regression/
+│   ├── linear-regression-from-scratch.ipynb
+│   └── linear-regression.ipynb
 │
 ├── classification/
 │   ├── logistic_regression_from_scratch.py

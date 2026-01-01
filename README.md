@@ -20,7 +20,7 @@ The goal is to develop a strong understanding of model internals, optimization t
 
 ### ✅ From Scratch
 - Linear Regression (Gradient Descent, Mean Squared Error)
-- Logistic Regression (Sigmoid, Binary Cross-Entropy Loss)
+- Logistic Regression (Sigmoid)
 - K-Means Clustering (Distance-based clustering)
 - Evaluation Metrics (Accuracy, Precision, Recall, RMSE)
 

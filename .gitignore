@@ -1,2 +1,5 @@
 Dataset/
 *.csv
+*.zip
+__pycache__/
+.env
